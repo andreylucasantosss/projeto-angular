@@ -1,2 +1,1 @@
-# projeto-angular
-Projeto Angular de produtos
+Projeito feito para estudo.
